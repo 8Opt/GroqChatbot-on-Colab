@@ -45,6 +45,7 @@ streamlit run app.py
 
 For those who want to use the app on Colab. You go to colab and upload the Jupyter notebook that you can see from the directory. Remember to initialize all necessary API keys from Colab's Secret zone.
 
+**Note:** I've also repaired a simple HTML/CSS/Javascript demo at the `/app`. You can setup the `API_KEY` in the `script.js` file and run by starting the `Live` server in `VSCode`. 
 
 ## Gallery
 
